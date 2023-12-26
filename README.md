@@ -1,2 +1,2 @@
-- - Clustering des données des compagnies de navigation aérienne à l'aide d'un modèle d'apprentissage non supervisé, Isolation Forest afin de détecter les anomalies (les vols qui sortent de l'ordinaire et qui ne sont que rarement programmés)
-- - Visualisation des résultats du modèles en mettent en évidence les anomalies dans un graphe.
+ - Clustering des données des compagnies de navigation aérienne à l'aide d'un modèle d'apprentissage non supervisé, Isolation Forest afin de détecter les anomalies (les vols qui sortent de l'ordinaire et qui ne sont que rarement programmés)
+ - Visualisation des résultats du modèles en mettent en évidence les anomalies dans un graphe.
